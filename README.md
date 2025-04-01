@@ -1,5 +1,6 @@
 # Build a User Registration Service Using a Choreography Saga in Akka
 
+
 This guide demonstrates how to implement a choreography Saga in Akka to ensure unique email addresses across user entities. You'll learn how to manage cross-entity field uniqueness in a distributed system using Akka.
 
 ## Prerequisites
